@@ -20,7 +20,7 @@ The dataset used for this project is sourced from Kaggle and contains various at
 - Seaborn
 
 
-## BLACKBOXAI
+## Conclusion
 
 This project successfully analyzed the correlation between budget and gross revenue in the movie industry, revealing a strong positive relationship and highlighting the significance of audience engagement through voting.
 
